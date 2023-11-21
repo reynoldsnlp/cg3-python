@@ -1,0 +1,3 @@
+[submodule "libcg3_src"]
+	path = libcg3_src
+	url = https://github.com/GrammarSoft/cg3.git
